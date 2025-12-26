@@ -12,7 +12,7 @@ export default {
         console.log("Subject: ", email.subject);
         console.log("From name: ", email.from.name);
         console.log("From address: ", email.from.address);
-        console.log("Bcc: ", email.bcc);
+        console.log("Bcc: ", email.bcc); // This is array, but you only see 1 email (email.bcc[0].address)
         console.log("To: ", email.to); // This is array (email.to[0].address)
         console.log("HTML: ", email.html);
         console.log(email);
