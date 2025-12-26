@@ -1,0 +1,24 @@
+{
+  "name": "email_worker_parser",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/edevil/email_worker_parser#readme",
+  "bugs": {
+    "url": "https://github.com/edevil/email_worker_parser/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edevil/email_worker_parser.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mimetext": "^3.0.27",
+    "postal-mime": "^2.7.1"
+  }
+}
