@@ -1,6 +1,7 @@
 # Cloudflare Email Worker HTML Parser
 
-[Disposable fast temporary project](https://github.com/kasteckis/TempFastMail) created with this parser. You can check DEMO at [TempFastMail.com](https://tempfastmail.com).
+Disposable fast temporary project created with this parser ([Open Source](https://github.com/kasteckis/TempFastMail)).  
+Check out DEMO at - [TempFastMail.com](https://tempfastmail.com).  
 
 # Setup
 1. Add domain to CloudFlare and verify it
